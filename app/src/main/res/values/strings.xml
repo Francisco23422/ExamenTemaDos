@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonDescribe</string>
+    <string name="chiste">   Esto era uno, que era tan tonto, tan tonto, tan tonto, que echó una carrera
+    el sólo y quedó segundo</string>
+    <string name="describe">Bienvenido , si has entrado aqui es por que quieres escuchar un buen chiste, dejo a tu eleccion si lo quieres corto o largo,
+    pulsa dos veces para escuchar el chiste y una vez para que sepas que hace el boton pulsado</string>
+</resources>
